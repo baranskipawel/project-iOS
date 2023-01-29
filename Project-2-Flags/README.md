@@ -1,1 +1,1 @@
-Prosta gra, w której użytkownik ma za zadanie odgadnąć, która falga należy do wyświetlanego napisu. Podczas gry, użytkownik zbiera punkty, po odpowiedzeniu na dziesiąte pytanie pojawia się alert w którym, zostaje poinformowany o uzyskanym wyniku.
+Prosta gra, w której użytkownik ma za zadanie odgadnąć, która flaga należy do wyświetlanego napisu. Podczas gry, użytkownik zbiera punkty, po odpowiedzeniu na dziesiąte pytanie pojawia się alert w którym, zostaje poinformowany o uzyskanym wyniku.
