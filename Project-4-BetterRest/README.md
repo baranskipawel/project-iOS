@@ -1,0 +1,1 @@
+Aplikacja, służy do zebrania informacji od użytkownika ile wypija kubków kawy w ciągu dnia oraz ile godzin chciałaby spać. Za pomocą MLModel na podstawie zebranych informacji, odpowiada na pytanie o, której użytkownik powinnen pójść spać.
